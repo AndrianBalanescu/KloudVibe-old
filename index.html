@@ -26,15 +26,24 @@
 <meta name="theme-color" content="#0072ce">
                      <link rel="manifest" href="manifest.json">
                      <script async custom-element="amp-install-serviceworker" src="https://cdn.ampproject.org/v0/amp-install-serviceworker-0.1.js"></script></head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160651772-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
 
-  gtag('config', 'UA-160651772-1');
-</script>
+<amp-analytics type="gtag" data-credentials="include">
+    <script type="application/json">
+        {
+            "vars": {
+                "gtag_id": "UA-160651772-1",
+                "config": {
+                    "UA-160651772-1": {
+                        "groups": "default"
+                    }
+                }
+            }
+            
+                    }
+    </script>
+</amp-analytics>
+
 	
 	<body><amp-sidebar id="sidebar" class="cid-r9hYnpdbBm" layout="nodisplay" side="right">
 		<div class="builder-sidebar" id="builder-sidebar">
