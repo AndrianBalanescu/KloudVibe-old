@@ -4,7 +4,7 @@
   "description": "",
   "main": "sw.js",
   "dependencies": {
-    "compress-images": "^1.6.0",
+    "compress-images": "^1.6.1",
     "update": "^0.7.4"
   },
   "devDependencies": {},
