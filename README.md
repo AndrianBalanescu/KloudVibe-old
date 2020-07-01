@@ -13,4 +13,4 @@ The DevOps Training Program will provide you with in-depth knowledge of various 
 [www.KloudVibe.com](https://kloudvibe.com)
 
 ![]()
-[<img src="https://github.com/Flomastermod/KloudVibe/blob/master/images/kloudvibe.com_%20(3).png">](htps://kloudvibe.com)
+[<img src="https://github.com/Flomastermod/KloudVibe/blob/master/images/kloudvibe.com_%20(3).png">](https://kloudvibe.com)
