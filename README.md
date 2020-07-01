@@ -2,6 +2,7 @@
 ##### PWA (Progressive Web App) built with AMP (Accelerated Mobile Pages) fully loading time is 3 seconds on mobile.
 ##### Please check the website performance and SEO test.
 [GtMetrixTest](https://gtmetrix.com/reports/kloudvibe.com/KmV71euT) 
+![](https://github.com/Flomastermod/KloudVibe/blob/master/images/gtmetrix.com_reports_kloudvibe.com_KmV71euT.png)
 ##### Great local Dev Ops bootcamp teaching Linux, Docker, Kubernetes, Jenkins and Git.<br>Ready to change your career? Become a Dev Ops Engineer.<br>Many thanks for giving the privilege to design for you
 ## Training Program
 Devops
